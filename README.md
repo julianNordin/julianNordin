@@ -5,7 +5,7 @@ Computer Engineer (B.Sc., Mid Sweden University) with a focus on AI/ML, backend 
 - 🎓 B.Sc. Computer Engineering, Mid Sweden University (2021–2024)
 - 🔭 Currently exploring AI, machine learning, and Visual AI (M.Sc. studies)
 - 🌍 Based in Stockholm, Sweden
-- 📫 julian.nordin94@gmail.com · [LinkedIn](https://www.linkedin.com/in/julian-nordin)
+- 📫 julian.nordin94@gmail.com · [LinkedIn](https://www.linkedin.com/in/julian-nordin94/)
 
 ---
 
