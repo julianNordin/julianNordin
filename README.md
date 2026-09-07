@@ -1,9 +1,9 @@
 ### Hi, I'm Julian 👋
 
-Computer Engineer (B.Sc., Mid Sweden University) with a focus on AI/ML, backend development, and databases. My bachelor's thesis explored Federated Learning for privacy-preserving image classification, and I'm currently continuing toward a master's in Visual AI. I like building full systems end-to-end — from database schema to API to a working UI — and I'm especially interested in applying machine learning to real-world, privacy-sensitive problems.
+Computer Engineer (B.Sc., Mid Sweden University) focused on backend development, databases and cloud infrastructure, with a background in AI/ML. My bachelor's thesis explored Federated Learning for privacy-preserving image classification, and I spent a semester of master's study in Visual AI before moving into full-time development. I like building full systems end-to-end — from database schema to API to a working UI.
 
 - 🎓 B.Sc. Computer Engineering, Mid Sweden University (2021–2024)
-- 🔭 Currently exploring AI, machine learning, and Visual AI (M.Sc. studies)
+- 🔭 Currently looking for a backend or full-stack developer role in Stockholm
 - 🏗️ Lately building production-style backend systems — authentication, concurrency control, CI/CD, and infrastructure as code — across .NET, Java/Spring, and NestJS
 - 🌍 Based in Stockholm, Sweden
 - 📫 julian.nordin94@gmail.com · [LinkedIn](https://www.linkedin.com/in/julian-nordin94/) · [Portfolio](https://portfolio-tau-neon-66.vercel.app)
